@@ -23,7 +23,7 @@
 - 💬 [Henry AI Calendar Assistant](https://github.com/IdKwHyo/Henry-ass): A conversational calendar assistant using Gemini + Google Calendar API.
 -  🌺 [orchid-detection](https://github.com/IdKwHyo/orchid-detection) – A computer vision model trained for classifying orchid species using **YOLOv8** and custom datasets. Includes image preprocessing, data pipelines, and model evaluation.
 - 📦 [Blockchain Timestamp API](https://github.com/IdKwHyo/your-repo): Flask-based API for timestamping tasks on Bitcoin with OpenTimestamps.
--- 👥 [Empower-AI](https://github.com/IdKwHyo/Empower-AI) – AI-powered finance dashboard built as part of a team project. Combines data visualization, machine learning, and Flask for business insights.
+- 👥 [Empower-AI](https://github.com/IdKwHyo/Empower-AI) – AI-powered finance dashboard built as part of a team project. Combines data visualization, machine learning, and Flask for business insights.
 ---
 [![](https://visitcount.itsvg.in/api?id=IdKwHyo&icon=0&color=0)](https://visitcount.itsvg.in)
 
