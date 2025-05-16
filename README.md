@@ -21,6 +21,7 @@
 
 - 🔗 [BitTasker](https://github.com/IdKwHyo/Btc-hackathon): A Bitcoin-powered AI productivity platform integrating Gemini + Lightning Network.
 - 💬 [Henry AI Calendar Assistant](https://github.com/IdKwHyo/Henry-ass): A conversational calendar assistant using Gemini + Google Calendar API.
+-  🌺 [orchid-detection](https://github.com/IdKwHyo/orchid-detection) – A computer vision model trained for classifying orchid species using **YOLOv8** and custom datasets. Includes image preprocessing, data pipelines, and model evaluation.
 - 📦 [Blockchain Timestamp API](https://github.com/IdKwHyo/your-repo): Flask-based API for timestamping tasks on Bitcoin with OpenTimestamps.
 
 ---
