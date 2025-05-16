@@ -17,8 +17,14 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=IdKwHyo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📂 Featured Projects
+
+- 🔗 [BitTasker](https://github.com/IdKwHyo/Btc-hackathon): A Bitcoin-powered AI productivity platform integrating Gemini + Lightning Network.
+- 💬 [Henry AI Calendar Assistant](https://github.com/IdKwHyo/Henry-ass): A conversational calendar assistant using Gemini + Google Calendar API.
+- 📦 [Blockchain Timestamp API](https://github.com/IdKwHyo/your-repo): Flask-based API for timestamping tasks on Bitcoin with OpenTimestamps.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IdKwHyo&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
