@@ -1,4 +1,4 @@
-#  About Me:
+[#  About Me:
 ###  About Me<br><br>Hi there! I'm Graphic, a junior(student) AI engineer and full-stack developer passionate about building systems that merge cutting-edge technologies like blockchain, AI, and cloud computing.<br><br> I enjoy creating meaningful tools that make life easier — whether it's a Bitcoin-powered productivity platform like BitTasker, or backend APIs that integrate real-world payments, AI coaching, and cryptographic proofs.<br><br> I'm particularly interested in:<br><br>-  Applied AI / LLMs (Gemini, GPT)<br>- ⚡Lightning Network & Bitcoin integrations<br>- ☁ Scalable cloud deployments (GCP, AWS)<br>-  Creative frontends with React, HTML, and Tailwind<br><br> Based in Thailand, open to remote opportunities with global teams.<br><br>Currently building & exploring:<br>- ✍Blockchain timestamping apps<br>- 🧾 Crypto-backed task managers<br>-  Conversational AI systems<br><br>Let's connect and build something impactful!<br>
 
 
@@ -29,3 +29,4 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://idkwhyo.github.io/profile/)
